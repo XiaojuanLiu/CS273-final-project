@@ -1,4 +1,4 @@
-Stanford CS273B Final Project
+#Stanford CS273B Final Project
 
 Title: Identification of variants from ATAC-seq data related to chronic endurance exercise training
 Contents:
